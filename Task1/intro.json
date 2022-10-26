@@ -42,7 +42,11 @@
     "role": ["contributor"]
   },
 
-  {
+  MineSocia = {
+    "twitter_handle": "@prathee",
+    "likedin_handle": "prathee_shetty",
+    "facebook": "pratheekshety",
+    "telegram_handle": "pratheeshet"
     "name": "Pratheek Shetty",
     "github_handle": "pratheek-shett",
     "hacktoberfest_round": "first",
